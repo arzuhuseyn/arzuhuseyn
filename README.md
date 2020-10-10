@@ -2,8 +2,7 @@
 
 Thanks for visiting my profile. 
 
-### Brief information:
-
+#### Brief information:
 Python and js developer. Working as a senior developer and full-stack instructor.
 
 Mostly working with below stacks:
