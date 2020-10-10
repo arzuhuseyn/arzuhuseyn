@@ -7,8 +7,8 @@ Python and js developer. Working as a senior developer and full-stack instructor
 
 Mostly working with below stacks:
 - `Django`
+- `Flask`
 - `Node.js`
-- `Vue.js`
 
 #### Contact 💬 :
 email : arzu.huseyn[at]gmail.com
