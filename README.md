@@ -2,7 +2,7 @@
 
 First of all, thanks for visiting my profile. 
 
-# Brief information:
+### Brief information:
 
 I'm a python and js developer from Caucasus. å
 
