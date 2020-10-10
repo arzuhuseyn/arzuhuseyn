@@ -1,14 +1,16 @@
-## Hi there ✌🏻
+## Hi there 🧞‍
 
-First of all, thanks for visiting my profile. 
+Thanks for visiting my profile. 
 
 ### Brief information:
 
-I'm a python and js developer from Caucasus. å
+Python and js developer. Working as a senior developer and full-stack instructor.
 
 Mostly working with below stacks:
 - `Django`
 - `Node.js`
 - `Vue.js`
 
-Also, I'm an instructor in TechAcademy (tech.edu.az). Working with young developer candidates.
+#### Contact 💬 :
+email : arzu.huseyn[at]gmail.com
+phone : 00994508742022
