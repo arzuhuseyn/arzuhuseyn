@@ -3,7 +3,7 @@
 Thanks for visiting my profile. 
 
 #### Brief information:
-Python and js developer. Working as a senior developer and full-stack instructor.
+Software engineer, Teacher, Dreamer
 
 Mostly working with below stacks:
 - `Django`
