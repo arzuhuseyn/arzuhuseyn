@@ -1,6 +1,6 @@
 ## Hi there 🧞‍
 
-Thanks for visiting my profile. 
+Thanks for visiting my account. 
 
 #### Brief information:
 Software engineer, Teacher, Dreamer
