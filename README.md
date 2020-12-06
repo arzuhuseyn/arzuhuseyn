@@ -11,7 +11,7 @@ Mostly working with below stacks:
 - `Node.js`
 
 #### Contact 💬 :
-- email : arzu.huseyn[at]gmail.com
+- email : hi[at]arzuh.me
 - phone : 00994508742022
 
 <center>
