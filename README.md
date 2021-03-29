@@ -5,10 +5,6 @@ Thanks for visiting my account.
 #### Brief information:
 Software engineer, Teacher, Dreamer
 
-Mostly working with below stacks:
-- `Django`
-- `Flask`
-- `Node.js`
 
 #### Contact 💬 :
 - email : hi[at]arzuh.me
