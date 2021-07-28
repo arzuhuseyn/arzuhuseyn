@@ -6,6 +6,4 @@ Just one of those coffee addict developers. In love with pasta and ohmyzsh
 Software engineer, Teacher, Dreamer
 
 
-#### Contact 💬 :
-- email : hi[at]arzuh.me
-- phone : 00994508742022
+#### E-MAIL 💬 : hi[at]arzuh.me
