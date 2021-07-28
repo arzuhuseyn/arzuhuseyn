@@ -1,6 +1,6 @@
 ## Hi there 🧞‍
 
-Thanks for visiting my account. 
+Just one of those coffee addict developers. In love with pasta and ohmyzsh
 
 #### Brief information:
 Software engineer, Teacher, Dreamer
